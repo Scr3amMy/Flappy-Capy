@@ -30,3 +30,15 @@ https://scr3ammy.itch.io/flappy-capy
 This project is licensed under the MIT License — feel free to remix, reuse, or learn from it. Just give credit where it’s due!
 
 ---
+
+## 🛠 How to Run Locally
+1. Clone this repo
+2. Open in Unity 
+3. Load the `MainScene` and press Play
+
+---
+
+<img width="1383" height="509" alt="image" src="https://github.com/user-attachments/assets/6449dd35-07a5-498f-94a1-f5e7e6bfaed0" />
+
+
+
